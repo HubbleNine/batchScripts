@@ -3,7 +3,7 @@
 rem =================================================================================================================================
 rem =================================================================================================================================
 rem ***Name: TMRemoteInstall.bat
-rem ***Author: Jordan Hubbard
+rem ***Author: Me
 rem ***Version: 1.0
 rem ***Date: 08 December 2015
 rem ***Information: This script will prompt for a computername, an administrators username and password. 
